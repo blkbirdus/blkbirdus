@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blkbirdus&label=Surfers&color=b40e88&style=plastic" alt="blkbirdus" /> </p>
 
 - 📖 Formado em Análise e Desenvolvimento de Sistemas - FAM
-- 🌱 Aprendendo: Linux
+- 🌱 Aprendendo: Python
 - 📫 Contato: **<marcoscastro650@gmail.com>**
 
 <h3 align="left">Redes Sociais:</h3>
