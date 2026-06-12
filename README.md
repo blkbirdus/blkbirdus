@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me Chamo Marcos (Birdus)</h1>
+<h1 align="center">Olá 👋, Me Chamo Marcos </h1>
 <h3 align="center">Sou um programador Back-End Com foco em Java e Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blkbirdus&label=Surfers&color=b40e88&style=plastic" alt="blkbirdus" /> </p>
